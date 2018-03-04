@@ -98,8 +98,8 @@ You can install the font on macOS machines by tapping the caskroom/fonts repo:
 
 ```shell
 brew tap caskroom/fonts
-brew install font-vazir
-```
+brew cask install font-vazir
+``` 
 
 #### Arch Linux
 Arch user's could use [vazir-fonts](https://aur.archlinux.org/packages/vazir-fonts/) package from [AUR](https://aur.archlinux.org/) repository to install vazir font.
